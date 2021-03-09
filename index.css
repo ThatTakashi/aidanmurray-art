@@ -139,8 +139,8 @@
 
 /* line 81, ../../../../../../../../../../../../../Users/aidan/Desktop/Website/sass/index.sass */
 .contenedor form .labels label:nth-child(odd) {
-  background: rgb(255,33,140);
-background: linear-gradient(90deg, rgba(255,33,140,1) 0%, rgba(168,108,153,1) 40%, rgba(125,146,159,1) 60%, rgba(0,255,177,1) 100%);
+  background: rgb(255,154,158);
+background: linear-gradient(90deg, rgba(255,154,158,1) 0%, rgba(254,207,239,1) 100%);
   color: white !important;
 }
 
