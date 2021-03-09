@@ -14,7 +14,7 @@
 .contenedor form {
   box-sizing: border-box;
   text-align: center;
-  padding: 222px;
+  padding: 22px;
   display: inline-flex;
   flex-direction: column;
   position: fixed;
@@ -40,8 +40,8 @@
   content: "";
   position: absolute;
   display: inline-block;
-  width: 10px;
-  height: 10px;
+  width: 9px;
+  height: 9px;
   border: 1px solid rgba(255, 255, 255, 0.81);
   border-radius: 11px;
   cursor: pointer;
