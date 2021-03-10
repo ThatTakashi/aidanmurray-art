@@ -4,7 +4,7 @@
 .contenedor {
   width: 100vw;
   height: 100vh;
-  background: deeppink;
+  background: #ffb3c4;
   position: relative;
   display: flex;
   align-items: center;
